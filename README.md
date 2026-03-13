@@ -1,1 +1,2 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Terminal&size=30&duration=2000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&height=85&lines=Sup+%E2%9C%8C%EF%B8%8F;%E2%86%93+My+Awesome+Website+%E2%86%93)](https://git.io/typing-svg)## [Click here](https://vyzzze.github.io)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Terminal&size=30&duration=2000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&height=85&lines=Sup+%E2%9C%8C%EF%B8%8F;%E2%86%93+My+Awesome+Website+%E2%86%93)](https://git.io/typing-svg)
+## [Click here](https://vyzzze.github.io)
