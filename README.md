@@ -56,9 +56,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="300" src="https://i.imgflip.com/ap9ioo.gif"  />
-</div>
-
-###
