@@ -4,7 +4,7 @@
 
 ###
 
-<img align="left" height="150" src="https://i2.imgflip.com/ap9hzt.gif"  />
+<img align="left" height="150" width="150" src="https://i2.imgflip.com/ap9hzt.gif"  />
 
 ###
 
